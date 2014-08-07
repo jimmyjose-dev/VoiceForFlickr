@@ -1,7 +1,7 @@
 VoiceForFlickr
 =====================
 
-We call this adding emotions to pictures. Add voice to Flickr images
+Add emotions to pictures by inserting voice in Flickr images.
 
 **NOW OPENSOURCE**
 
