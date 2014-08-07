@@ -1,0 +1,339 @@
+%!Adobe-FontList 1.11
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-BlackItalic
+FamilyName:Gotham
+StyleName:Black Italic
+FullName:Gotham Black Italic
+MenuName:Gotham Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-BlackIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:135616
+FileModTime:1187092730
+WeightClass:425
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Black
+FamilyName:Gotham
+StyleName:Black
+FullName:Gotham Black
+MenuName:Gotham Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-Black_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:137472
+FileModTime:1187159538
+WeightClass:425
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-BookItalic
+FamilyName:Gotham
+StyleName:Bold Italic
+FullName:Gotham Bold Italic
+MenuName:Gotham Bold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-BookIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:130024
+FileModTime:1219854482
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Bold
+FullName:Gotham Bold
+MenuName:Gotham Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-Book_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:127472
+FileModTime:1219854478
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-BookItalic
+FamilyName:Gotham
+StyleName:Book Italic
+FullName:Gotham Book Italic
+MenuName:Gotham Book
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-BookIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:133304
+FileModTime:1219854486
+WeightClass:325
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+FullName:Gotham Book
+MenuName:Gotham Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-Book_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:128020
+FileModTime:1219854484
+WeightClass:325
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-LightItalic
+FamilyName:Gotham
+StyleName:Light Italic
+FullName:Gotham Light Italic
+MenuName:Gotham Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-LightIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:131812
+FileModTime:1219854492
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Light
+FamilyName:Gotham
+StyleName:Light
+FullName:Gotham Light
+MenuName:Gotham Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-Light_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:125704
+FileModTime:1219854490
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-MediumItalic
+FamilyName:Gotham
+StyleName:Medium Italic
+FullName:Gotham Medium Italic
+MenuName:Gotham Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-MediumIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:133788
+FileModTime:1219854498
+WeightClass:350
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+FullName:Gotham Medium
+MenuName:Gotham Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-Medium_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:128768
+FileModTime:1219854494
+WeightClass:350
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-ThinItalic
+FamilyName:Gotham
+StyleName:Thin Italic
+FullName:Gotham Thin Italic
+MenuName:Gotham Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-ThinIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:135444
+FileModTime:1187092762
+WeightClass:250
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Thin
+FamilyName:Gotham
+StyleName:Thin
+FullName:Gotham Thin
+MenuName:Gotham Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-Thin_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:130672
+FileModTime:1187092440
+WeightClass:250
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-UltraItalic
+FamilyName:Gotham
+StyleName:Ultra Italic
+FullName:Gotham Ultra Italic
+MenuName:Gotham Ultra
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-UltraIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:128584
+FileModTime:1187092766
+WeightClass:450
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Ultra
+FamilyName:Gotham
+StyleName:Ultra
+FullName:Gotham Ultra
+MenuName:Gotham Ultra
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-Ultra_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:133680
+FileModTime:1187092446
+WeightClass:450
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-ExtraLightItalic
+FamilyName:Gotham
+StyleName:Extra Light Italic
+FullName:Gotham Extra Light Italic
+MenuName:Gotham Extra Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-XLightIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:137592
+FileModTime:1187092768
+WeightClass:275
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-ExtraLight
+FamilyName:Gotham
+StyleName:Extra Light
+FullName:Gotham Extra Light
+MenuName:Gotham Extra Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Manish\Desktop\Font\Gotham-XLight_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:132120
+FileModTime:1187092452
+WeightClass:275
+WidthClass:5
+AngleClass:0
+%EndFont
+
