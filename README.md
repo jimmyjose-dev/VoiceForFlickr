@@ -1,4 +1,4 @@
-VoiceForFlickr
+![VoiceForFlickr][1] VoiceForFlickr
 =====================
 
 Add emotions to pictures by inserting voice in Flickr images.
@@ -84,3 +84,6 @@ Contact Us
 
 Have any questions or suggestions feel free to write at jimmy@varshyl.com (Jimmy Jose)
 http://www.varshylmobile.com/
+
+
+  [1]: https://s2.mzstatic.com/us/r30/Purple/v4/44/e4/90/44e490e6-cb7a-87dc-f1a6-0c49f6a4ece1/icon170x170.png
